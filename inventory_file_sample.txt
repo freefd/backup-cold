@@ -1,0 +1,3 @@
+__etc|/etc
+__home|/home/user1::/home/user2
+__usr|/usr/lib/systemd/systemd-service-name.service::/usr/lib/systemd/systemd-service-name.timer::/usr/local/bin
